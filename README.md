@@ -9,7 +9,7 @@ A python class for generating unique json payloads to use in back-end server's A
 - Custom rules support, you can write your own rules
 
 ### Usage
-[Documentation](./json_generator_docs)
+[Documentation](./json_generator_docs.md)
 
 
 ## License
