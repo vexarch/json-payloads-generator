@@ -357,6 +357,8 @@ Amazon.com Inc.
 Meta Platforms Inc.
 ```
 
+You can use the usernames.txt and passwords.txt files in this repo from [SecLists](https://gitlab.com/kalilinux/packages/seclists)
+
 ### Combining File Data with Rules
 
 Create hybrid rules that combine file data with patterns:
