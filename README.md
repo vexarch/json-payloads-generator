@@ -2,6 +2,7 @@
 A python class for generating unique json payloads to use in back-end server's APIs testing
 
 ## Features
+- The class uses standard library modules so it can be used directly in your project without additional setup
 - Nearly every function has comments for better inline suggestions when using IDE
 - Clear syntax for the schema
 - Wide range of generators for values
