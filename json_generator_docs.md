@@ -357,7 +357,7 @@ Amazon.com Inc.
 Meta Platforms Inc.
 ```
 
-You can use the usernames.txt and passwords.txt files in this repo (from [SecLists](https://gitlab.com/kalilinux/packages/seclists)) to get real usernames and passwords rather than the built-in rules to generate them
+You can use the [usernames.txt](./usernames.txt) and [passwords.txt](./passwords.txt) files in this repo (from [SecLists](https://gitlab.com/kalilinux/packages/seclists)) to get real usernames and passwords rather than the built-in rules to generate them
 
 ### Combining File Data with Rules
 
