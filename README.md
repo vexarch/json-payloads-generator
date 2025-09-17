@@ -1,26 +1,35 @@
 # json-payloads-generator
-A python class for generating unique json payloads to use in back-end server's APIs testing
+
+A Python class for generating unique JSON payloads to use in back-end server API testing.
 
 ## Features
-- The class uses standard library modules so it can be used directly in your project without additional setup
-- Nearly every function has comments for better inline suggestions when using IDE
-- Wide range of generators for values
-- Allows using external data (file based rules) to be more realistic
-- Custom rules support, you can write your own rules
+- Uses only standard library modules for easy integration without extra dependencies.
+- Inline comments for nearly every function for better IDE suggestions.
+- Wide range of value generators.
+- Supports external data (file-based rules) for realistic payload generation.
+- Custom rule support: write your own rules.
 
-### Usage
-[Documentation](./json_generator_docs.md)
+## Usage
+See [Documentation](./json_generator_docs.md) for details and examples.
+
+## Third-Party Content Notice
+
+This project includes `usernames.txt` and `passwords.txt` files sourced from the [SecLists](https://github.com/danielmiessler/SecLists) project.  
+SecLists is licensed under the MIT License.  
+Please see the [SecLists LICENSE](https://github.com/danielmiessler/SecLists/blob/master/LICENSE.txt) for details and attribution.
 
 ## Contributing
-Contributions are welcome! Please fork the repo and submit a pull request.
-- Fork the repository
-- Create a feature branch (git checkout -b feature/my-feature)
-- Commit your changes
-- Push to your branch
-- Open a PR
 
-## Known issues
-- Hard syntax for some built-in rules
+Contributions are welcome! To contribute:
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature/my-feature`).
+3. Commit your changes.
+4. Push to your branch.
+5. Open a pull request.
+
+## Known Issues
+- Syntax for some built-in rules can be complex.
 
 ## License
+
 This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
